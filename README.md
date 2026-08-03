@@ -7,6 +7,20 @@ A focused [Model Context Protocol](https://modelcontextprotocol.io) server for g
 
 The implementation is informed by [SamurAIGPT/muapi-mcp-server](https://github.com/SamurAIGPT/muapi-mcp-server): it forwards a MuAPI key, keeps generation asynchronous, and provides both an MCP stdio transport and a small HTTP bridge.
 
+## Related Projects
+
+- [MuAPI Seedance 2.5](https://muapi.ai/seedance-2.5) — Model landing page and browser playground links for the Seedance 2.5 family.
+- [MuAPI MCP documentation](https://muapi.ai/docs/mcp) — Hosted MCP setup and tool-use guidance.
+- [MuAPI access keys](https://muapi.ai/access-keys) — Create the API key required by this server.
+- [Seedance-2.5-API](https://github.com/SamurAIGPT/Seedance-2.5-API) — Python wrapper for the Seedance 2.5 API.
+- [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) — Python wrapper covering Seedance 2.0 and Seedance 2 Mini.
+- [seedance2.5-comfyui](https://github.com/Anil-matcha/seedance2.5-comfyui) — Native Seedance 2.5 custom nodes and workflows for ComfyUI.
+- [seedance2-comfyui](https://github.com/Anil-matcha/seedance2-comfyui) — Related Seedance 2 custom nodes and workflows.
+- [n8n-nodes-seedance2](https://github.com/Anil-matcha/n8n-nodes-seedance2) — Seedance automation nodes for n8n workflows.
+- [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) — Prompt and camera-control references for Seedance 2.5.
+- [muapi-mcp-server](https://github.com/SamurAIGPT/muapi-mcp-server) — Broad MuAPI MCP server reference for Claude, Cursor, and other clients.
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Open-source media studio that uses MuAPI for image and video workflows.
+
 ## Included tools
 
 | Tool | Purpose |
